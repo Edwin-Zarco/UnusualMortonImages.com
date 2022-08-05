@@ -1,2 +1,2 @@
-# Unusual-Morton-Images-Website
-The code and assets used to create the Unusual Morton Images website
+# UnusualMortonImages.com
+The code and assets used to create the Unusual Morton Images website unusualmortonimages.com
